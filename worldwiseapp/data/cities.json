@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "id": "25ea",
+      "cityName": "Avila",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-08T11:42:10.313Z",
+      "notes": "",
+      "position": {
+        "lat": "40.713955826286046",
+        "lng": "-4.658203125000001"
+      }
+    },
+    {
+      "id": "7d27",
+      "cityName": "Navas de Jorquera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-08T11:43:43.915Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.30029918615029",
+        "lng": "-1.7138671875000002"
+      }
+    },
+    {
+      "id": "b70b",
+      "cityName": "Rillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-08T11:44:42.931Z",
+      "notes": "",
+      "position": {
+        "lat": "40.763901280945866",
+        "lng": "-0.9228515625000001"
+      }
+    },
+    {
+      "id": "6af1",
+      "cityName": "Maranchon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-08T11:45:10.299Z",
+      "notes": "",
+      "position": {
+        "lat": "41.062786068733026",
+        "lng": "-2.2412109375000004"
+      }
+    },
+    {
+      "id": "5d80",
+      "cityName": "Puente del Congosto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-10T11:25:24.836Z",
+      "notes": "",
+      "position": {
+        "lat": "40.48038142908172",
+        "lng": "-5.537109375000001"
+      }
+    },
+    {
+      "id": "0f93",
+      "cityName": "Leczyca",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-03-10T11:25:33.176Z",
+      "notes": "",
+      "position": {
+        "lat": "52.07950600379697",
+        "lng": "19.204101562500004"
+      }
+    },
+    {
+      "id": "ad2d",
+      "cityName": "Arandiga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-12T09:28:28.034Z",
+      "notes": "",
+      "position": {
+        "lat": "41.5579215778042",
+        "lng": "-1.47216796875"
+      }
+    },
+    {
+      "id": "3b8a",
+      "cityName": "Portilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-12T09:28:29.992Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "-2.0434570312500004"
+      }
+    },
+    {
+      "id": "b260",
+      "cityName": "Hinojosa del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-14T09:01:16.227Z",
+      "notes": "",
+      "position": {
+        "lat": "38.46219172306828",
+        "lng": "-5.053710937500001"
+      }
+    },
+    {
+      "id": "5848",
+      "cityName": "Villeneuve-Saint-Georges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-17T09:24:48.000Z",
+      "notes": "cos cos",
+      "position": {
+        "lat": "48.74772040852051",
+        "lng": "2.4369956374557327"
+      }
+    },
+    {
+      "id": "590e",
+      "cityName": "Velez-Blanco",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-14T09:59:30.671Z",
+      "notes": "",
+      "position": {
+        "lat": "37.89219554724437",
+        "lng": "-2.2412109375000004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"jsx": "react"
+	},
+	"include": [
+		"src/**/*.js", // Uwzględniamy pliki .js
+		"crashingerror/vite-plugin-eslint.d.ts" // Uwzględniamy plik deklaracji
+	]
+}
